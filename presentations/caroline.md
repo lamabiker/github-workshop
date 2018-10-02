@@ -1,6 +1,6 @@
 # Caroline
 
-:dog: :wave: :IE:
+:dog: :wave: :ie:
 
 _Designer._
 
