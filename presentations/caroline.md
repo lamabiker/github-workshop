@@ -1,6 +1,6 @@
 # Caroline
 
-:dog: :wave: :ie:
+:dog: :wave: :🇮🇪:
 
 _Designer._
 
