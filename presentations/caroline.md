@@ -17,5 +17,3 @@ _Designer._
     console.log(value);
   });
 ```
-
-[Further explanations](https://www.latlmes.com/tech/how-to-make-github-urls-1)
